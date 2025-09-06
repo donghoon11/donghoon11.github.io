@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: donghoon11.github.io
+title: Donghoon Oh
 author: Donghoon Oh
 description: > 
   AI · Robotics · Design notes by Donghoon Oh.
@@ -25,11 +25,11 @@ navigation:
   # - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance & SEO best practices
+  Data driven Generative Design
 
 hero_img: posts/sleek_lg.jpg
 
-email: your-email@domain.com
+email: ohdonghoon9@kaist.ac.kr
 
 # 필요 없으면 주석 처리
 # twitter_username: your_twitter
