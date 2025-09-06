@@ -1,13 +1,26 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+## Hi, I’m Donghoon
+MS student in Mechanical Engineering at KAIST. I build systems that connect **design, simulation, and learning**.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+### Focus Areas
+- **AI for Design / Topology Optimization:** SIMP-based optimization (2D/3D), generative structures, mass–stiffness trade-offs  
+- **Robotics Learning:** Vision-Language-Action baselines (OpenVLA, MiniVLA, LeRobot), imitation/diffusion policies  
+- **Sim-to-Real:** CoppeliaSim/MuJoCo data generation, real-time visualization, TCP sync with a physical rover
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+### Tooling & Stack
+- Jetson Nano (dual CSI cams), YOLOv8, custom BaseController(JSON over serial)  
+- ROS 2 Humble, CoppeliaSim & MuJoCo (off-screen rendering)  
+- LangGraph multi-agent workflows, RLDS format, PyTorch/Lightning, W&B
+
+### Recent Highlights
+- Stable FSM navigation via `StableStateManager` (min-duration + anti-flipback)  
+- Path-like control from bottom-most bbox chaining and curved heading generation  
+- Trajectory caching & velocity interpolation for smooth motion
+
+**Email:** <ohdonghoon9@kaist.ac.kr>  
+**GitHub:** <https://github.com/donghoon11>

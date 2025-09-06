@@ -22,7 +22,7 @@ social:
 navigation:
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  # - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance & SEO best practices
