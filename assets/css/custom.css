@@ -1,0 +1,17 @@
+/* profile block */
+.profile-wrap{
+  display:flex; align-items:flex-start; gap:2rem;
+  max-width: 980px; margin: 2rem auto 3rem auto;
+}
+.profile-photo{
+  width:220px; height:220px; object-fit:cover;
+  border-radius:12px; /* 동그랗게 원형을 원하면 50%로 */
+  box-shadow: 0 6px 20px rgba(0,0,0,.15);
+}
+.profile-text{ line-height:1.7; }
+
+/* 모바일 대응 */
+@media (max-width: 768px){
+  .profile-wrap{ flex-direction:column; align-items:center; text-align:center; }
+  .profile-photo{ width:160px; height:160px; border-radius:50%; }
+}
