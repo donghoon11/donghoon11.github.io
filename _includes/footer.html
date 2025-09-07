@@ -17,9 +17,11 @@
         </a>
       {% endif %} -->
       {% if site.linkedin_url %}
-        <a class="footer__icon" href="{{ site.linkedin_url }}" target="_blank" rel="noopener" aria-label="LinkedIn">
-          <img src="{{ '/assets/img/icons/icon-linkedin.svg' | relative_url }}"
-              alt="LinkedIn" width="22" height="22" loading="lazy">
+        <a class="social__link" target="_blank" rel="noopener noreferrer" href="{{ site.linkedin_url }}">
+          <!-- LinkedIn 아이콘 (20x20, currentColor로 색 동기화) -->
+          <svg class="social__icon" viewBox="0 0 24 24" width="20px" height="20px" aria-hidden="true">
+            <path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM0 8.98h5V24H0V8.98zm7.5 0h4.8v2.05h.07c.67-1.27 2.3-2.6 4.74-2.6 5.07 0 6 3.34 6 7.68V24h-5v-6.8c0-1.62-.03-3.7-2.25-3.7-2.25 0-2.6 1.75-2.6 3.57V24h-5V8.98z"/>
+          </svg>
         </a>
       {% endif %}
     </nav>
