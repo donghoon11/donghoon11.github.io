@@ -5,22 +5,21 @@ permalink: /about
 ---
 
 ## Hi, I’m Donghoon
-MS student in Mechanical Engineering at KAIST. I build systems that connect **design, simulation, and learning**.
 
-### Focus Areas
-- **AI for Design / Topology Optimization:** SIMP-based optimization (2D/3D), generative structures, mass–stiffness trade-offs  
-- **Robotics Learning:** Vision-Language-Action baselines (OpenVLA, MiniVLA, LeRobot), imitation/diffusion policies  
-- **Sim-to-Real:** CoppeliaSim/MuJoCo data generation, real-time visualization, TCP sync with a physical rover
+I’m an M.S. student in Mechanical Engineering at KAIST focused on **data-driven design** and **generative design**. I build pipelines that link CAD/CAE, simulation data, and optimization to explore large design spaces and produce lightweight, manufacturable structures (DfAM).
 
-### Tooling & Stack
-- Jetson Nano (dual CSI cams), YOLOv8, custom BaseController(JSON over serial)  
-- ROS 2 Humble, CoppeliaSim & MuJoCo (off-screen rendering)  
-- LangGraph multi-agent workflows, RLDS format, PyTorch/Lightning, W&B
+### Focus
+- Data-driven design: surrogate models, sensitivity analysis, multi-objective/Bayesian optimization  
+- Generative & topology optimization (SIMP, 2D/3D), weight–stiffness trade-offs  
+- Rapid FEA-based verification and iteration for AM-ready geometry
 
-### Recent Highlights
-- Stable FSM navigation via `StableStateManager` (min-duration + anti-flipback)  
-- Path-like control from bottom-most bbox chaining and curved heading generation  
-- Trajectory caching & velocity interpolation for smooth motion
+### Selected work
+- Generative-design studies and seminar materials  
+- Topology-optimization-inspired lightweight frame concepts  
+- Packaging concept with segmented geometry (modeling + visualization)
 
-**Email:** <ohdonghoon9@kaist.ac.kr>  
-**GitHub:** <https://github.com/donghoon11>
+### Tools
+Fusion 360 / Inventor / CATIA · ANSYS / Nastran · Python (data & optimization)
+
+**Email:** ohdonghoon9@kaist.ac.kr  
+**GitHub:** https://github.com/donghoon11
