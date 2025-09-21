@@ -21,5 +21,19 @@ I’m an M.S. student in Mechanical Engineering at KAIST focused on **data-drive
 ### Tools
 Fusion 360 / Inventor / CATIA · ANSYS / Nastran · Python (data & optimization)
 
+### Research Experience
+- Research Intern (Dynamic Robotic System Lab, SNU, 2025)
+
+### Honors, Awards & Scholarships
+- National Science & Engineering Scholarship (KOSAF, 2019-2025)
+- Mechanical Engineering Design Competition (Hanyang Univ, 2024) — *Grand Prize*
+- 16th Hanyang Capstone Design (Hanyang Univ, 2024) — *Excellence Award*  
+- Hanyang Academic Conference (Hanyang Univ, 2023) — *Grand Prize*
+
+### Communities
+- Google Developer Student Clubs (Google, 2022-2023)
+- Autodesk KR Fusion Korean Community (Autodesk KR)
+- ModuLabs *with-Robot Lab*, *Humanoid Lab*
+
 **Email:** ohdonghoon9@kaist.ac.kr  
 **GitHub:** https://github.com/donghoon11
