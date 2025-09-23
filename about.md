@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-
-## Hi, I’m Donghoon
+<!-- ## Hi, I’m Donghoon
 
 I’m an M.S. student in Mechanical Engineering at KAIST focused on **data-driven design** and **generative design**. I build pipelines that link CAD/CAE, simulation data, and optimization to explore large design spaces and produce lightweight, manufacturable structures (DfAM).
 
@@ -19,7 +18,21 @@ I’m an M.S. student in Mechanical Engineering at KAIST focused on **data-drive
 - Packaging concept with segmented geometry (modeling + visualization)
 
 ### Tools
-Fusion 360 / Inventor / CATIA · ANSYS / Nastran · Python (data & optimization)
+Fusion 360 / Inventor / CATIA · ANSYS / Nastran · Python (data & optimization) -->
+## Hi, I’m Donghoon
+
+I’m an M.S. student in Mechanical Engineering at KAIST focused on **data-driven design** and **AI-assisted CAD**. My current interest is building pipelines where **LLMs/VLMs or neural networks generate CAD** (sketches, features, parametrics) and support **part-assembly platforms** (constraint discovery, mating, BOM/metadata, and automatic layout), connected to CAE for quick validation.
+
+### Focus
+- AI-assisted CAD: LLM/VLM prompts to sketches/features, constraint inference, parametric editing  
+- Assembly automation: mate/constraint prediction, graph-based assembly reasoning, part retrieval & placement  
+- Data-driven design: surrogate models, sensitivity analysis, multi-objective/Bayesian optimization  
+- Fast verify loops: lightweight CAE checks for early design iteration
+
+### Selected work
+- Studies on AI-for-CAD workflows and seminar materials  
+- Assembly reasoning prototypes (constraint/mate detection, auto-placement mockups)  
+- Topology-optimization-inspired lightweight structures (design studies)
 
 ### Research Experience
 - Research Intern (Dynamic Robotic System Lab, SNU, 2025)

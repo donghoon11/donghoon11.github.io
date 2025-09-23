@@ -22,8 +22,9 @@ permalink: /
   />
   <div class="intro__text">
     <p>
-      I build pipelines that connect CAD/CAE, simulation data, and optimization to
-      explore large design spaces and create lightweight, manufacturable structures.
+      <!-- I build pipelines that connect CAD/CAE, simulation data, and optimization to
+      explore large design spaces and create lightweight, manufacturable structures. -->
+      I build AI-assisted CAD pipelines where LLMs/VLMs or neural networks generate sketches/features/parametrics and drive part-assembly platforms (constraint inference, auto-mating, retrieval & placement). These flows connect to lightweight CAE checks for fast iteration and data-driven optimization.
     </p>
 
     <p><strong>Interests</strong> — data-driven design, surrogate/Bayesian optimization,
